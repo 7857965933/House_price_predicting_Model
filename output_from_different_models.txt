@@ -1,0 +1,21 @@
+
+
+1) Dicision tree regression model:
+
+mean : 4.329137512595688
+standared_deviation : 1.2057292528520538
+
+
+2) linear regression model:
+
+mean : 5.030774440136728
+standared_deviation : 1.0611768716909693
+
+
+3) Random forest regressor
+
+
+mean : 3.289767877231083
+standared_deviation : 0.6860163657824891
+
+
