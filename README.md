@@ -1,2 +1,2 @@
-# Housing-price-predicting-model
+# House-price-predicting-model
 A **house price prediction model** uses historical real estate data (such as location, size, number of rooms, and amenities) to predict property prices. It typically leverages **machine learning algorithms** like Linear Regression, Decision Trees, or Neural Networks. The model learns the relationship between features and target prices from training data. After training, it can forecast prices for unseen properties. This helps buyers, sellers, and real estate agents make informed decisions based on data-driven insights.
