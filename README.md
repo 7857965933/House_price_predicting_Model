@@ -1,2 +1,2 @@
-# housing-predicing-model
+# housing-predicting-model
 nothing 
